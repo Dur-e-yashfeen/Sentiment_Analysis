@@ -58,10 +58,6 @@ import warnings
 ### Feature Engineering
 ### Splitting the Dataset
 ### Training the Model
-
-
-![alt text](<Screenshot 2025-01-20 202930-1.png>)
-
 ### Making Predictions
 ### Evaluating the Model
 ## Results
